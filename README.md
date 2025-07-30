@@ -1,4 +1,4 @@
-####Hi, I'm Dave 👋
+#### Hi, I'm Dave 👋
 
 🧑🏻‍💻 AI Product Designer
 🎓 Currently studying Human-Computer Interaction at Carnegie Mellon University  
